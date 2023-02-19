@@ -1,0 +1,1 @@
+persons = ["taro", "jiro", "saburo", "shiro"]
